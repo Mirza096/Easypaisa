@@ -4,5 +4,17 @@
     "easy-peasy": "^6.0.4",
     "enquirer": "^2.4.1",
     "yarn": "^1.22.22"
-  }
+  },
+  "name": "easypaisa-app",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "\"# Easypaisa\"",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
